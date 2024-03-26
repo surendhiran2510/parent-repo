@@ -1,0 +1,3 @@
+[submodule "my-remote-git-repo"]
+	path = my-remote-git-repo
+	url = https://github.com/surendhiran2510/my-remote-git-repo.git
